@@ -26,9 +26,3 @@ OPENAI_API_KEY=your_openai_api_key_here
 
 ## Error Logging
 - Errors encountered during processing are logged in `api_errors.log` by default. You can customize this in the script if needed.
-
-## Running the Project
-1. Ensure the `.env` file is correctly set up.
-2. Run the main script:
-   ```bash
-   python TechTestCase.py
