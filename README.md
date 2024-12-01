@@ -7,13 +7,6 @@
   - `openai` (`pip install openai`)
   - `pandas` (`pip install pandas`)
 
-## Installation
-1. Clone the repository.
-2. Install the required Python libraries:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
 ## Environment Variables
 To run this project, create a `.env` file in the root directory of the project. This file should contain the following variables:
 OPENAI_API_KEY=your_openai_api_key_here
